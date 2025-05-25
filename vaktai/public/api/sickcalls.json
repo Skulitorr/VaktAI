@@ -1,0 +1,28 @@
+{
+  "sickcalls": [
+    {
+      "id": 1,
+      "staffId": 2,
+      "date": "2025-01-06",
+      "reason": "Flu symptoms",
+      "submitted": "2025-01-05T18:30:00Z",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "staffId": 4,
+      "date": "2025-01-08",
+      "reason": "Doctor appointment",
+      "submitted": "2025-01-06T09:15:00Z",
+      "status": "Approved"
+    },
+    {
+      "id": 3,
+      "staffId": 6,
+      "date": "2025-01-09",
+      "reason": "Family emergency",
+      "submitted": "2025-01-08T22:45:00Z",
+      "status": "Pending"
+    }
+  ]
+}

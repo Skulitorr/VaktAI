@@ -1,0 +1,212 @@
+{
+  "shifts": [
+    {
+      "id": 1,
+      "staffId": 1,
+      "day": "Monday",
+      "date": "2025-01-06",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 2,
+      "staffId": 2,
+      "day": "Monday",
+      "date": "2025-01-06",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 3,
+      "staffId": 4,
+      "day": "Monday",
+      "date": "2025-01-06",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 4,
+      "staffId": 5,
+      "day": "Monday",
+      "date": "2025-01-06",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 5,
+      "staffId": 3,
+      "day": "Tuesday",
+      "date": "2025-01-07",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 6,
+      "staffId": 5,
+      "day": "Tuesday",
+      "date": "2025-01-07",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 7,
+      "staffId": 6,
+      "day": "Tuesday",
+      "date": "2025-01-07",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 8,
+      "staffId": 1,
+      "day": "Wednesday",
+      "date": "2025-01-08",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 9,
+      "staffId": 2,
+      "day": "Wednesday",
+      "date": "2025-01-08",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 10,
+      "staffId": 6,
+      "day": "Wednesday",
+      "date": "2025-01-08",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 11,
+      "staffId": 1,
+      "day": "Thursday",
+      "date": "2025-01-09",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 12,
+      "staffId": 3,
+      "day": "Thursday",
+      "date": "2025-01-09",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 13,
+      "staffId": 5,
+      "day": "Thursday",
+      "date": "2025-01-09",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 14,
+      "staffId": 6,
+      "day": "Thursday",
+      "date": "2025-01-09",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 15,
+      "staffId": 1,
+      "day": "Friday",
+      "date": "2025-01-10",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 16,
+      "staffId": 2,
+      "day": "Friday",
+      "date": "2025-01-10",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 17,
+      "staffId": 4,
+      "day": "Friday",
+      "date": "2025-01-10",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 18,
+      "staffId": 5,
+      "day": "Friday",
+      "date": "2025-01-10",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 19,
+      "staffId": 2,
+      "day": "Saturday",
+      "date": "2025-01-11",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 20,
+      "staffId": 3,
+      "day": "Saturday",
+      "date": "2025-01-11",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 21,
+      "staffId": 5,
+      "day": "Saturday",
+      "date": "2025-01-11",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 22,
+      "staffId": 6,
+      "day": "Saturday",
+      "date": "2025-01-11",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 23,
+      "staffId": 2,
+      "day": "Sunday",
+      "date": "2025-01-12",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 24,
+      "staffId": 3,
+      "day": "Sunday",
+      "date": "2025-01-12",
+      "startTime": "08:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": 25,
+      "staffId": 4,
+      "day": "Sunday",
+      "date": "2025-01-12",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    },
+    {
+      "id": 26,
+      "staffId": 6,
+      "day": "Sunday",
+      "date": "2025-01-12",
+      "startTime": "16:00",
+      "endTime": "00:00"
+    }
+  ]
+}

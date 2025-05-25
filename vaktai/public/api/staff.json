@@ -1,0 +1,58 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "role": "Manager",
+      "email": "jane.smith@example.com",
+      "phone": "555-123-4567",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "skillLevel": "Senior"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "role": "Associate",
+      "email": "john.doe@example.com",
+      "phone": "555-987-6543",
+      "availability": ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"],
+      "skillLevel": "Mid"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "role": "Associate",
+      "email": "michael.johnson@example.com",
+      "phone": "555-456-7890",
+      "availability": ["Tuesday", "Thursday", "Saturday", "Sunday"],
+      "skillLevel": "Mid"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "role": "Associate",
+      "email": "emily.davis@example.com",
+      "phone": "555-789-0123",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Friday", "Sunday"],
+      "skillLevel": "Junior"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "role": "Assistant Manager",
+      "email": "david.wilson@example.com",
+      "phone": "555-234-5678",
+      "availability": ["Monday", "Tuesday", "Thursday", "Friday", "Saturday"],
+      "skillLevel": "Senior"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Brown",
+      "role": "Associate",
+      "email": "sarah.brown@example.com",
+      "phone": "555-345-6789",
+      "availability": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "skillLevel": "Junior"
+    }
+  ]
+}

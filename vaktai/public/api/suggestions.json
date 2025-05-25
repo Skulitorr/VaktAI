@@ -1,0 +1,22 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "sickCallId": 1,
+      "originalStaffId": 2,
+      "suggestedStaffId": 3,
+      "shiftId": 2,
+      "date": "2025-01-06",
+      "reason": "Available and matches skill level"
+    },
+    {
+      "id": 2,
+      "sickCallId": 3,
+      "originalStaffId": 6,
+      "suggestedStaffId": 4,
+      "shiftId": 14,
+      "date": "2025-01-09",
+      "reason": "Available and has similar experience"
+    }
+  ]
+}
