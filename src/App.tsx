@@ -14,7 +14,7 @@ function App() {
           <Route path="/schedule" element={<Schedule />} />
           <Route path="/callin" element={<CallIn />} />
           <Route path="/admin" element={<Admin />} />
-          <Route path="*" element={<Navigate to="/" replace />} />
+          <Route path="*" element={<Navigate to="/\" replace />} />
         </Routes>
       </AppProvider>
     </Router>
